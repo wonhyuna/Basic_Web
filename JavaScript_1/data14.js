@@ -2,6 +2,7 @@ let fruits = ['레몬', '토마토', '딸기', '바나나'];
 let ages = [20, 24, 25, 29, 30, 33];
 let numbers = [];
 
+//splice, shift, pop 사용
 fruits.splice(1, 1, '사과', '청포도');
 fruits.shift();
 ages.pop();
