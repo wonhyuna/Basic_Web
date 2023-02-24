@@ -1,4 +1,4 @@
-//문자열
+//문자열 심화
 let myString = "Hi Codeit";
 
 //길이
